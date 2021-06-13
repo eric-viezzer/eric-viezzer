@@ -10,7 +10,7 @@
 - <p>📍 From São Paulo Capital</p>
 - <p>:nerd_face: I'm a Trainee and I've been working as a cloud engineer since 2021.</p>
 - <p>:nerd_face: Cloud engineer intern at @Accenture Brasil</p>
-- 👾 Meus hobbies são: 
+- 👾 my hobbies are: 
   - studying about hacking and pentest; 
   - watch movies;
   - read books about philosophy;
