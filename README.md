@@ -1,6 +1,8 @@
 ## Hi Devs 💻 !!
 <img align="right" alt="GIF" src="https://ci3.googleusercontent.com/proxy/32qIm3hl4C2Fc68nzvpN-LLOwX2eU3TY6DgHDtkRUogC3cOFZsMeFxxG7pFTx6t4pk2OPnyvWQzKgD1n65orz2CqnvZliyvuOcOvN-uBTFR1l7HMbdGipPdNCzV3gy5jYffy7tXF=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1623605477566.png" width="350px"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eric-viezzer" alt="eric-viezzer" /> </p>
+
 - <p>I am Eric :brazil:</p>
 - <p>📍 From São Paulo Capital</p>
 - <p>:nerd_face: I'm a Trainee and I've been working as a cloud engineer since 2021.</p>
