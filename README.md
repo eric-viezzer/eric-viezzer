@@ -25,6 +25,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-viezzer&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
+
 ##  **Social Medias** :iphone: 
 
 <br>
