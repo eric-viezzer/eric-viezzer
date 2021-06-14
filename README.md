@@ -6,7 +6,7 @@
  </p>
 
 
-- <p>I am Eric :brazil:</p>
+- <p>:handshake: I am Eric :brazil:</p>
 - <p>📍 From São Paulo Capital</p>
 - <p>:nerd_face: I'm a Trainee and I've been working as a cloud engineer since 2021.</p>
 - <p>:nerd_face: Cloud engineer intern at @Accenture Brasil</p>
@@ -19,6 +19,8 @@
 - 💬 Feel free to call me, I'll be very happy to help;
 
 ##  🚀 **“Os professores abrem a porta, mas você deve entrar por você mesmo.”**  🚀
+
+<br>
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eric-viezzer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -47,7 +49,7 @@
     </a>
 </p>
   
-## Languages and tools:
+## Languages and tools :hammer_and_wrench:
 
 <p align="center">    
     <img  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
