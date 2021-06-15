@@ -18,7 +18,7 @@
   - Play Counter Strike;
 - 💬 Feel free to call me, I'll be very happy to help;
 
-##  🚀 **“Os professores abrem a porta, mas você deve entrar por você mesmo.”**  🚀
+## **“A ambição é o último recurso do fracassado.”**
 
 <br>
 
