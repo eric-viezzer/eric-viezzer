@@ -1,5 +1,5 @@
 ## Hi Devs 💻
-<img align="right" alt="GIF" src="https://ci3.googleusercontent.com/proxy/32qIm3hl4C2Fc68nzvpN-LLOwX2eU3TY6DgHDtkRUogC3cOFZsMeFxxG7pFTx6t4pk2OPnyvWQzKgD1n65orz2CqnvZliyvuOcOvN-uBTFR1l7HMbdGipPdNCzV3gy5jYffy7tXF=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1623605477566.png" width="350px"/>
+<img align="right" alt="GIF" src="https://ci3.googleusercontent.com/proxy/Gb07XCIRzjDm0VvYAsxn8UyE1FUSyfbX3RPs-P0FBEWmzRGYs1q9XXB_5RdOWfLLXsgp5BPCpu5MyKsNRB_zMDbZBa8zv2psLQJmL6Ot7A-4zsVC_EYNT2UqblU4wybX5FFDDvq8=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1623768369347.png" width="350px"/>
 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/eric-viezzer/count.svg"/> 
