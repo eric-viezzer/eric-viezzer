@@ -13,8 +13,7 @@
 
 - <p>:handshake: I am Eric :brazil:</p>
 - <p>📍 From São Paulo Capital</p>
-- <p>:nerd_face: I'm a Trainee and I've been working as a cloud engineer since 2021.</p>
-- <p>:nerd_face: Cloud engineer intern at @Accenture Brasil</p>
+- <p>:nerd_face: I'm a Trainee and i work with Ansible and Python automation in @Accenture Brasil</p>
 - 👾 my hobbies are: 
   - studying about hacking and pentest; 
   - watch movies;
