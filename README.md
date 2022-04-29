@@ -13,7 +13,7 @@
 
 - <p>:handshake: I am Eric :brazil:</p>
 - <p>📍 From São Paulo Capital</p>
-- <p>:nerd_face: I'm a Trainee and i work with Ansible and Python automation in @Accenture Brasil</p>
+- <p>:nerd_face: I'm a junior developer and i work with Java in @Kroton by group @Cogna</p>
 - 👾 my hobbies are: 
   - studying about hacking and pentest; 
   - watch movies;
@@ -22,7 +22,7 @@
   - Play Counter Strike;
 - 💬 Feel free to call me, I'll be very happy to help;
 
-## **“A ambição é o último recurso do fracassado.”**
+## **“Obstáculo é aquilo que você enxerga quando tira os olhos do seu objetivo.”**
 
 <br>
 
