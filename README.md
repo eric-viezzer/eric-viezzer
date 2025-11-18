@@ -13,7 +13,7 @@
 
 - <p>:handshake: I am Eric :brazil:</p>
 - <p>📍 From São Paulo Capital</p>
-- <p>:nerd_face: I'm a junior developer and i work with Java in @Kroton by group @Cogna</p>
+- <p>:nerd_face: I'm a software engineer and i work with c# in @GFT</p>
 - 👾 my hobbies are: 
   - studying about hacking and pentest; 
   - watch movies;
